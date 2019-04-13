@@ -14,7 +14,7 @@ body,
 }
 .cover-text{
     text-align: center;
-    color: white;
+    color: red;
     display: table-cell;
     vertical-align: middle;
 }
